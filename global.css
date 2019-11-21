@@ -120,6 +120,7 @@ h4{
 }
 .project:hover{
     border: 2px solid #30b8f7;
+    border-radius: 8px;
 }
 .project:hover .overlay{
     opacity: 1;
