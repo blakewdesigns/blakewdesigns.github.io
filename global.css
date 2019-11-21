@@ -80,6 +80,17 @@ h4{
     border-radius: 50%;
     margin-left: 20px;
 }
+.social3{
+    height: 40px;
+    width: 40px;
+    background-position: center;
+    background-image: url(https://i.imgur.com/v3Nnld8.png);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-color: #ffffff;
+    border-radius: 50%;
+    margin-left: 40px;
+}
 .wrapper{
     display: flex;
     justify-content: center;
@@ -229,7 +240,7 @@ footer{
     }
     .icons{
         justify-content: center;
-        left: -10px;
+        left: -20px;
     }
     #aboutwrapper{
         flex-direction: column;
