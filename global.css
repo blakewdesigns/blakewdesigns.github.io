@@ -49,15 +49,20 @@ h4{
     top: 295px;
     left: 95px;
 }
-.icons a{
+.iconwrapper a{
     height: 40px;
     width: 40px;
     opacity: .5;
     vertical-align: center;
 }
-.icons a:hover{
+.iconwrapper a:hover{
     opacity: 1;
     transition: .5s ease;
+}
+.iconwrapper{
+    height: 40px;
+    width: 40px;
+    padding: 0px 10px;
 }
 .social1{
     height: 40px;
@@ -78,7 +83,6 @@ h4{
     background-repeat: no-repeat;
     background-color: #ffffff;
     border-radius: 50%;
-    margin-left: 20px;
 }
 .social3{
     height: 40px;
@@ -89,7 +93,6 @@ h4{
     background-repeat: no-repeat;
     background-color: #ffffff;
     border-radius: 50%;
-    margin-left: 40px;
 }
 .wrapper{
     display: flex;
