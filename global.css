@@ -138,6 +138,7 @@ h4{
     opacity: 0;
     transition: .5s ease;
     background-color: #171717c5;
+    border-radius: 6px;
   }
 .title{
     font-size: 24px;
