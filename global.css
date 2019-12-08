@@ -253,7 +253,6 @@ footer{
     font-size: 16px;
     opacity: .75;
 }
-
 #topBtn:hover {
     opacity: 1;
 }
@@ -292,6 +291,9 @@ footer{
     }
     .footnotes{
         width: 70%;
+    }
+    #pagebtn{
+        width: 40px;
     }
 }
 @media (max-width: 1400px){
