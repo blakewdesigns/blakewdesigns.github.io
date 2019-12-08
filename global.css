@@ -292,6 +292,9 @@ footer{
     .footnotes{
         width: 70%;
     }
+    #topBtn{
+        right: 5px;
+    }
     #pagebtn{
         width: 40px;
     }
