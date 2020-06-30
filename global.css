@@ -279,13 +279,13 @@ footer{
         flex-direction: column;
         flex-wrap: wrap;
         margin: 0 auto;
-        /* align-items: center; */
-        justify-content: center;
+        align-items: center;
+        /* justify-content: center; */
     }
     .links a{
         width: 100%;
         text-decoration: none;
-        padding: 20px;
+        padding: 10px 20px;
         font-size: 30px;
         color: #000000;
     }
