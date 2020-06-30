@@ -279,6 +279,8 @@ footer{
         flex-direction: column;
         flex-wrap: wrap;
         margin: 0 auto;
+        align-items: center;
+        justify-content: center;
     }
     .links a{
         width: 100%;
