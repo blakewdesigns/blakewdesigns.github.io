@@ -207,13 +207,13 @@ footer{
     background-color:#30b8f7;
 }
 #vroomcs{
-    width:80%;
+    width:70%;
 }
 #spancs{
-    width:80%;
+    width:70%;
 }
 #packetcs{
-    width:80%;
+    width:70%;
 }
 .framer{
     height:600px;
@@ -297,6 +297,15 @@ footer{
     }
     #pagebtn{
         width: 40px;
+    }
+    #vroomcs{
+        width:100%;
+    }
+    #spancs{
+        width:100%;
+    }
+    #packetcs{
+        width:100%;
     }
 }
 @media (max-width: 1400px){
